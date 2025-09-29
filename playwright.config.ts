@@ -25,10 +25,6 @@ export default defineConfig({
    reporter: [
             ['list'],
             ['allure-playwright', { outputFolder: 'allure-results' }],
-            ['@test-reporter/playwright', {
-              reportPath: 'extent-report/report.html',
-              // ...other Extent options
-            }]
           ],
   /* Shared settings for all the projects below. See https://playwright.dev/docs/api/class-testoptions. */
   use: {
