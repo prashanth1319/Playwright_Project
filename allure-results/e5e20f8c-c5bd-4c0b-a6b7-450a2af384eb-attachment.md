@@ -1,0 +1,319 @@
+# Page snapshot
+
+```yaml
+- generic [active] [ref=e1]:
+  - generic [ref=e2]:
+    - generic [ref=e3]:
+      - link "Skip to content" [ref=e4]:
+        - /url: "#start-of-content"
+      - banner [ref=e6]:
+        - heading "Navigation Menu" [level=2] [ref=e7]
+        - generic [ref=e8]:
+          - link "Homepage" [ref=e10]:
+            - /url: /
+            - img [ref=e11]
+          - generic [ref=e13]:
+            - navigation "Global" [ref=e14]:
+              - list [ref=e15]:
+                - listitem [ref=e16]:
+                  - button "Platform" [ref=e17] [cursor=pointer]:
+                    - text: Platform
+                    - img [ref=e18] [cursor=pointer]
+                - listitem [ref=e20]:
+                  - button "Solutions" [ref=e21] [cursor=pointer]:
+                    - text: Solutions
+                    - img [ref=e22] [cursor=pointer]
+                - listitem [ref=e24]:
+                  - button "Resources" [ref=e25] [cursor=pointer]:
+                    - text: Resources
+                    - img [ref=e26] [cursor=pointer]
+                - listitem [ref=e28]:
+                  - button "Open Source" [ref=e29] [cursor=pointer]:
+                    - text: Open Source
+                    - img [ref=e30] [cursor=pointer]
+                - listitem [ref=e32]:
+                  - button "Enterprise" [ref=e33] [cursor=pointer]:
+                    - text: Enterprise
+                    - img [ref=e34] [cursor=pointer]
+                - listitem [ref=e36]:
+                  - link "Pricing" [ref=e37]:
+                    - /url: https://github.com/pricing
+            - generic [ref=e38]:
+              - button "Search or jump to…" [ref=e41] [cursor=pointer]:
+                - img [ref=e43] [cursor=pointer]
+              - link "Sign in" [ref=e46]:
+                - /url: /login?return_to=https%3A%2F%2Fgithub.com%2Fstanfy%2Fbehave-rest%2Fblob%2Fmaster%2Ffeatures%2Fconf.yaml
+              - link "Sign up" [ref=e47]:
+                - /url: /signup?ref_cta=Sign+up&ref_loc=header+logged+out&ref_page=%2F%3Cuser-name%3E%2F%3Crepo-name%3E%2Fblob%2Fshow&source=header-repo&source_repo=stanfy%2Fbehave-rest
+              - button "Appearance settings" [ref=e50] [cursor=pointer]:
+                - img
+    - main [ref=e54]:
+      - generic [ref=e55]:
+        - generic [ref=e56]:
+          - generic [ref=e58]:
+            - img [ref=e59]
+            - link "stanfy" [ref=e62]:
+              - /url: /stanfy
+            - generic [ref=e63]: /
+            - strong [ref=e64]:
+              - link "behave-rest" [ref=e65]:
+                - /url: /stanfy/behave-rest
+            - generic [ref=e66]: Public
+          - generic [ref=e67]:
+            - list:
+              - listitem [ref=e68]:
+                - link "You must be signed in to change notification settings" [ref=e69] [cursor=pointer]:
+                  - /url: /login?return_to=%2Fstanfy%2Fbehave-rest
+                  - img [ref=e70] [cursor=pointer]
+                  - text: Notifications
+              - listitem [ref=e72]:
+                - link "Fork 17" [ref=e73] [cursor=pointer]:
+                  - /url: /login?return_to=%2Fstanfy%2Fbehave-rest
+                  - img [ref=e74] [cursor=pointer]
+                  - text: Fork
+              - listitem [ref=e77]:
+                - link "You must be signed in to star a repository" [ref=e79] [cursor=pointer]:
+                  - /url: /login?return_to=%2Fstanfy%2Fbehave-rest
+                  - img [ref=e80] [cursor=pointer]
+                  - generic [ref=e82] [cursor=pointer]: Star
+                  - generic "20 users starred this repository" [ref=e83] [cursor=pointer]: "20"
+        - navigation "Repository" [ref=e84]:
+          - list [ref=e85]:
+            - listitem [ref=e86]:
+              - link "Code" [ref=e87] [cursor=pointer]:
+                - /url: /stanfy/behave-rest
+                - img [ref=e88] [cursor=pointer]
+                - generic [ref=e90] [cursor=pointer]: Code
+            - listitem [ref=e91]:
+              - link "Issues 3" [ref=e92] [cursor=pointer]:
+                - /url: /stanfy/behave-rest/issues
+                - img [ref=e93] [cursor=pointer]
+                - generic [ref=e96] [cursor=pointer]: Issues
+            - listitem [ref=e98]:
+              - link "Pull requests" [ref=e99] [cursor=pointer]:
+                - /url: /stanfy/behave-rest/pulls
+                - img [ref=e100] [cursor=pointer]
+                - generic [ref=e102] [cursor=pointer]: Pull requests
+            - listitem [ref=e103]:
+              - link "Actions" [ref=e104] [cursor=pointer]:
+                - /url: /stanfy/behave-rest/actions
+                - img [ref=e105] [cursor=pointer]
+                - generic [ref=e107] [cursor=pointer]: Actions
+            - listitem [ref=e108]:
+              - link "Projects" [ref=e109] [cursor=pointer]:
+                - /url: /stanfy/behave-rest/projects
+                - img [ref=e110] [cursor=pointer]
+                - generic [ref=e112] [cursor=pointer]: Projects
+            - listitem [ref=e113]:
+              - link "Wiki" [ref=e114] [cursor=pointer]:
+                - /url: /stanfy/behave-rest/wiki
+                - img [ref=e115] [cursor=pointer]
+                - generic [ref=e117] [cursor=pointer]: Wiki
+            - listitem [ref=e118]:
+              - link "Security" [ref=e119] [cursor=pointer]:
+                - /url: /stanfy/behave-rest/security
+                - img [ref=e120] [cursor=pointer]
+                - generic [ref=e122] [cursor=pointer]: Security
+            - listitem [ref=e123]:
+              - link "Insights" [ref=e124] [cursor=pointer]:
+                - /url: /stanfy/behave-rest/pulse
+                - img [ref=e125] [cursor=pointer]
+                - generic [ref=e127] [cursor=pointer]: Insights
+      - generic [ref=e135]:
+        - generic [ref=e137]:
+          - generic [ref=e140]:
+            - generic [ref=e141]:
+              - generic [ref=e142]:
+                - heading "Collapse file tree" [level=2] [ref=e143]:
+                  - button "Collapse file tree" [expanded] [ref=e144] [cursor=pointer]:
+                    - img [ref=e145] [cursor=pointer]
+                - heading "Files" [level=2] [ref=e148]
+              - generic [ref=e149]:
+                - button "master branch" [ref=e151] [cursor=pointer]:
+                  - generic [ref=e152] [cursor=pointer]:
+                    - generic [ref=e154] [cursor=pointer]:
+                      - img [ref=e156] [cursor=pointer]
+                      - generic [ref=e159] [cursor=pointer]: master
+                    - generic:
+                      - img
+                - button "Search this repository" [ref=e161] [cursor=pointer]:
+                  - img [ref=e162] [cursor=pointer]
+            - generic [ref=e165]:
+              - img [ref=e167]
+              - combobox "Go to file" [ref=e169]
+            - navigation "File Tree Navigation" [ref=e174]:
+              - status [ref=e175]
+              - tree "Files" [ref=e176]:
+                - treeitem "behave_rest" [level=1] [ref=e177]:
+                  - generic [ref=e178] [cursor=pointer]:
+                    - img [ref=e180] [cursor=pointer]
+                    - generic [ref=e182] [cursor=pointer]:
+                      - img [ref=e186] [cursor=pointer]
+                      - generic [ref=e189] [cursor=pointer]: behave_rest
+                - treeitem "features" [expanded] [level=1] [ref=e190]:
+                  - generic [ref=e191] [cursor=pointer]:
+                    - img [ref=e193] [cursor=pointer]
+                    - generic [ref=e195] [cursor=pointer]:
+                      - img [ref=e199] [cursor=pointer]
+                      - generic [ref=e202] [cursor=pointer]: features
+                  - group [ref=e203]:
+                    - treeitem "steps" [level=2] [ref=e204]:
+                      - generic [ref=e205] [cursor=pointer]:
+                        - img [ref=e210] [cursor=pointer]
+                        - generic [ref=e212] [cursor=pointer]:
+                          - img [ref=e216] [cursor=pointer]
+                          - generic [ref=e219] [cursor=pointer]: steps
+                    - treeitem "__init__.py" [level=2] [ref=e220]:
+                      - generic [ref=e225] [cursor=pointer]:
+                        - img [ref=e228] [cursor=pointer]
+                        - generic [ref=e231] [cursor=pointer]: __init__.py
+                    - treeitem "conf.yaml" [level=2] [ref=e232]:
+                      - generic [ref=e237] [cursor=pointer]:
+                        - img [ref=e240] [cursor=pointer]
+                        - generic [ref=e243] [cursor=pointer]: conf.yaml
+                    - treeitem "environment.py" [level=2] [ref=e244]:
+                      - generic [ref=e249] [cursor=pointer]:
+                        - img [ref=e252] [cursor=pointer]
+                        - generic [ref=e255] [cursor=pointer]: environment.py
+                    - treeitem "ssl_test.feature" [level=2] [ref=e256]:
+                      - generic [ref=e261] [cursor=pointer]:
+                        - img [ref=e264] [cursor=pointer]
+                        - generic [ref=e267] [cursor=pointer]: ssl_test.feature
+                    - treeitem "test.feature" [level=2] [ref=e268]:
+                      - generic [ref=e273] [cursor=pointer]:
+                        - img [ref=e276] [cursor=pointer]
+                        - generic [ref=e279] [cursor=pointer]: test.feature
+                    - treeitem "twitter.feature" [level=2] [ref=e280]:
+                      - generic [ref=e285] [cursor=pointer]:
+                        - img [ref=e288] [cursor=pointer]
+                        - generic [ref=e291] [cursor=pointer]: twitter.feature
+                - treeitem ".gitignore" [level=1] [ref=e292]:
+                  - generic [ref=e294] [cursor=pointer]:
+                    - img [ref=e297] [cursor=pointer]
+                    - generic [ref=e300] [cursor=pointer]: .gitignore
+                - treeitem "LICENSE" [level=1] [ref=e301]:
+                  - generic [ref=e303] [cursor=pointer]:
+                    - img [ref=e306] [cursor=pointer]
+                    - generic [ref=e309] [cursor=pointer]: LICENSE
+                - treeitem "MANIFEST.in" [level=1] [ref=e310]:
+                  - generic [ref=e312] [cursor=pointer]:
+                    - img [ref=e315] [cursor=pointer]
+                    - generic [ref=e318] [cursor=pointer]: MANIFEST.in
+                - treeitem "README.md" [level=1] [ref=e319]:
+                  - generic [ref=e321] [cursor=pointer]:
+                    - img [ref=e324] [cursor=pointer]
+                    - generic [ref=e327] [cursor=pointer]: README.md
+                - treeitem "README.rst" [level=1] [ref=e328]:
+                  - generic [ref=e330] [cursor=pointer]:
+                    - img [ref=e333] [cursor=pointer]
+                    - generic [ref=e336] [cursor=pointer]: README.rst
+                - treeitem "requirements.txt" [level=1] [ref=e337]:
+                  - generic [ref=e339] [cursor=pointer]:
+                    - img [ref=e342] [cursor=pointer]
+                    - generic [ref=e345] [cursor=pointer]: requirements.txt
+                - treeitem "setup.py" [level=1] [ref=e346]:
+                  - generic [ref=e348] [cursor=pointer]:
+                    - img [ref=e351] [cursor=pointer]
+                    - generic [ref=e354] [cursor=pointer]: setup.py
+          - slider "Draggable pane splitter" [ref=e356]
+        - generic [ref=e359]:
+          - generic [ref=e364]:
+            - generic [ref=e366]:
+              - navigation "Breadcrumbs" [ref=e367]:
+                - heading "Breadcrumbs" [level=2] [ref=e368]
+                - list [ref=e369]:
+                  - listitem [ref=e370]:
+                    - link "behave-rest" [ref=e371]:
+                      - /url: /stanfy/behave-rest/tree/master
+                  - listitem [ref=e372]:
+                    - generic [ref=e373]: /
+                    - link "features" [ref=e374]:
+                      - /url: /stanfy/behave-rest/tree/master/features
+              - generic [ref=e375]:
+                - generic [ref=e376]: /
+                - heading "conf.yaml" [level=1] [ref=e377]
+              - button "Copy path" [ref=e378] [cursor=pointer]:
+                - img [ref=e379] [cursor=pointer]
+            - button "More file actions" [ref=e385] [cursor=pointer]:
+              - img [ref=e386] [cursor=pointer]
+          - generic [ref=e388]:
+            - generic [ref=e390]:
+              - heading "Latest commit" [level=2] [ref=e391]
+              - generic [ref=e392]:
+                - generic [ref=e394]:
+                  - img "author" [ref=e395]
+                  - generic [ref=e397]: Oleg Nikiforov
+                - link "sample twitter search api test" [ref=e401]:
+                  - /url: /stanfy/behave-rest/commit/894c1c1efa5c984eb6bc91f059bc5b25021f8190
+              - generic [ref=e402]:
+                - generic [ref=e404]:
+                  - link "Commit 894c1c1" [ref=e405]:
+                    - /url: /stanfy/behave-rest/commit/894c1c1efa5c984eb6bc91f059bc5b25021f8190
+                    - text: 894c1c1
+                  - text: ·
+                  - generic "Jul 26, 2016 at 8:34 PM GMT+5:30" [ref=e406]: Jul 26, 20169 years ago
+                - generic [ref=e407]:
+                  - heading "History" [level=2] [ref=e408]
+                  - link "History" [ref=e409] [cursor=pointer]:
+                    - /url: /stanfy/behave-rest/commits/master/features/conf.yaml
+                    - generic [ref=e410] [cursor=pointer]:
+                      - generic:
+                        - img
+                      - generic [ref=e412] [cursor=pointer]: History
+            - generic [ref=e414]:
+              - generic [ref=e416]:
+                - heading "File metadata and controls" [level=2] [ref=e417]
+                - list "File view" [ref=e419]:
+                  - listitem [ref=e420]:
+                    - button "Code" [ref=e421] [cursor=pointer]:
+                      - generic [ref=e423] [cursor=pointer]: Code
+                  - listitem [ref=e424]:
+                    - button "Blame" [ref=e425] [cursor=pointer]:
+                      - generic [ref=e427] [cursor=pointer]: Blame
+                - generic [ref=e428]:
+                  - generic [ref=e429]:
+                    - generic [ref=e430]:
+                      - link "Raw" [ref=e432] [cursor=pointer]:
+                        - /url: https://github.com/stanfy/behave-rest/raw/refs/heads/master/features/conf.yaml
+                        - generic [ref=e434] [cursor=pointer]: Raw
+                      - button "Copy raw file" [ref=e436] [cursor=pointer]:
+                        - img [ref=e437] [cursor=pointer]
+                      - button "Download raw file" [ref=e441] [cursor=pointer]:
+                        - img [ref=e442] [cursor=pointer]
+                    - generic [ref=e445]:
+                      - button "You must be signed in to make or propose changes" [disabled] [ref=e447]:
+                        - img [ref=e448]
+                      - button "More edit options" [ref=e451] [cursor=pointer]:
+                        - img [ref=e452] [cursor=pointer]
+                  - button "Open symbols panel" [ref=e454] [cursor=pointer]:
+                    - img [ref=e455] [cursor=pointer]
+              - region "conf.yaml" [ref=e458]:
+                - generic [ref=e462]:
+                  - textbox "file content" [ref=e465]: "staging_base_url: 'http://jsonplaceholder.typicode.com' twitter_auth: 'Bearer AAAAAAAAAAAAAAAAAAAAAJ3PVgAAAAAA%2BPcuieQDv6hOE9SyWM2AOWjIloc%3DU2fCluURs5dnG5A3WaaVhNgiBjXKkV5lynvoquGu7ediOCRWiF'"
+                  - generic:
+                    - generic:
+                      - generic:
+                        - generic [ref=e466]:
+                          - generic [ref=e467] [cursor=pointer]: "1"
+                          - generic [ref=e468] [cursor=pointer]: "2"
+                        - generic:
+                          - generic:
+                            - generic:
+                              - generic:
+                                - generic: staging_base_url
+                                - generic: ":"
+                                - generic:
+                                  - generic: "'"
+                                  - generic: http://jsonplaceholder.typicode.com
+                                  - generic: "'"
+                          - generic:
+                            - generic:
+                              - generic:
+                                - generic: twitter_auth
+                                - generic: ":"
+                                - generic:
+                                  - generic: "'"
+                                  - generic: Bearer AAAAAAAAAAAAAAAAAAAAAJ3PVgAAAAAA%2BPcuieQDv6hOE9SyWM2AOWjIloc%3DU2fCluURs5dnG5A3WaaVhNgiBjXKkV5lynvoquGu7ediOCRWiF
+                                  - generic: "'"
+  - alert [ref=e474]: While the code is focused, press Alt+F1 for a menu of operations.
+```

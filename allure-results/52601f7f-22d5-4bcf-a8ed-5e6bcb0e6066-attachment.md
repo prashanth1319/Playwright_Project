@@ -1,0 +1,878 @@
+# Page snapshot
+
+```yaml
+- generic [ref=e1]:
+  - generic [ref=e7]:
+    - generic [ref=e10]:
+      - generic [ref=e12]: Techlistic
+      - navigation [ref=e13]:
+        - list [ref=e20]:
+          - listitem [ref=e21]:
+            - link [ref=e23] [cursor=pointer]:
+              - /url: https://www.techlistic.com/search/label/Artificial%20Intelligence
+              - text: AI
+              - generic [ref=e24] [cursor=pointer]: 
+          - listitem [ref=e25]:
+            - link [ref=e27] [cursor=pointer]:
+              - /url: https://www.techlistic.com/search/label/Crypto
+              - text: Crypto
+              - generic [ref=e28] [cursor=pointer]: 
+          - listitem [ref=e29]:
+            - link [ref=e31] [cursor=pointer]:
+              - /url: https://www.techlistic.com/search/label/Tech%20Story
+              - text: Top 10
+              - generic [ref=e32] [cursor=pointer]: 
+          - listitem [ref=e33]:
+            - link [ref=e35] [cursor=pointer]:
+              - /url: https://www.techlistic.com/p/learn-c-programming-from-basic-concepts.html
+              - text: Programming
+              - generic [ref=e36] [cursor=pointer]: 
+          - listitem [ref=e37]:
+            - link [ref=e39] [cursor=pointer]:
+              - /url: https://www.techlistic.com/p/selenium-tutorials.html
+              - text: Selenium
+              - generic [ref=e40] [cursor=pointer]: 
+          - listitem [ref=e41]:
+            - link [ref=e43] [cursor=pointer]:
+              - /url: https://www.techlistic.com/p/selenium-tutorials.html
+              - text: Automation
+              - generic [ref=e44] [cursor=pointer]: 
+          - listitem [ref=e45]:
+            - link [ref=e47] [cursor=pointer]:
+              - /url: https://www.techlistic.com/p/software-testing.html
+              - text: Testing
+              - generic [ref=e48] [cursor=pointer]: 
+          - listitem [ref=e49]:
+            - link [ref=e51] [cursor=pointer]:
+              - /url: https://www.techlistic.com/2021/10/top-50-selenium-interview-questions.html
+              - text: Interviews
+              - generic [ref=e52] [cursor=pointer]: 
+          - listitem [ref=e53]:
+            - link [ref=e55] [cursor=pointer]:
+              - /url: https://www.techlistic.com/p/software-testing.html
+              - text: OS
+              - generic [ref=e56] [cursor=pointer]: 
+          - listitem [ref=e57]:
+            - link [ref=e59] [cursor=pointer]:
+              - /url: https://www.techlistic.com/2023/05/what-is-class-in-python.html
+              - text: Misc.
+              - generic [ref=e60] [cursor=pointer]: 
+          - listitem [ref=e61]:
+            - link [ref=e62] [cursor=pointer]:
+              - /url: https://www.techlistic.com/p/contact.html
+              - text: Contact
+    - generic [ref=e63]:
+      - text: ···
+      - main [active] [ref=e64]:
+        - generic [ref=e65]:
+          - article [ref=e68]:
+            - generic [ref=e70]:
+              - heading [level=3] [ref=e71]: Demo Automation Practice Form
+              - button [ref=e75] [cursor=pointer]:
+                - img [ref=e77] [cursor=pointer]
+              - generic [ref=e79]:
+                - generic [ref=e82]:
+                  - heading [level=2] [ref=e83]:
+                    - generic [ref=e85]: AUTOMATION PRACTICE FORM
+                  - heading [level=2] [ref=e86]:
+                    - generic [ref=e88]:
+                      - generic [ref=e92]:
+                        - generic [ref=e93]:
+                          - list [ref=e96]:
+                            - generic [ref=e97] [cursor=pointer]:
+                              - generic [ref=e99] [cursor=pointer]: x
+                              - region [ref=e100] [cursor=pointer]:
+                                - text: 
+                                - generic [ref=e102] [cursor=pointer]:
+                                  - button [ref=e103] [cursor=pointer]:
+                                    - generic [ref=e104] [cursor=pointer]: 
+                                    - generic [ref=e105] [cursor=pointer]: Play
+                                  - generic [ref=e106] [cursor=pointer]:
+                                    - button [ref=e107] [cursor=pointer]:
+                                      - generic [ref=e108] [cursor=pointer]: 
+                                      - generic [ref=e109] [cursor=pointer]: Unmute
+                                    - generic [ref=e110] [cursor=pointer]: 
+                                  - generic [ref=e114] [cursor=pointer]: 
+                                  - text:  
+                                  - button [ref=e118] [cursor=pointer]:
+                                    - generic [ref=e119] [cursor=pointer]: 
+                                    - generic [ref=e120] [cursor=pointer]: Fullscreen
+                                - generic [ref=e121] [cursor=pointer]:
+                                  - iframe [ref=e125] [cursor=pointer]:
+                                    - generic [ref=f1e2] [cursor=pointer]:
+                                      - button [ref=f1e6] [cursor=pointer]:
+                                        - img [ref=f1e7] [cursor=pointer]
+                                      - button [ref=f1e8] [cursor=pointer]:
+                                        - img [ref=f1e9] [cursor=pointer]
+                                      - button [ref=f1e10] [cursor=pointer]:
+                                        - img [ref=f1e11] [cursor=pointer]
+                                  - generic [ref=e126] [cursor=pointer]:
+                                    - generic [ref=e127]: "Advertisement: 0:01"
+                                    - generic [ref=e130] [cursor=pointer]: 
+                                    - generic [ref=e131] [cursor=pointer]: 
+                                    - generic [ref=e133] [cursor=pointer]: 
+                            - listitem [ref=e134] [cursor=pointer]:
+                              - list [ref=e136] [cursor=pointer]:
+                                - listitem [ref=e137] [cursor=pointer]:
+                                  - generic [ref=e138] [cursor=pointer]:
+                                    - text: 
+                                    - generic [ref=e139] [cursor=pointer]: Now Playing
+                                - listitem [ref=e140] [cursor=pointer]:
+                                  - button [ref=e142] [cursor=pointer]: 
+                                - listitem [ref=e143] [cursor=pointer]:
+                                  - button [ref=e145] [cursor=pointer]: 
+                                - listitem [ref=e146] [cursor=pointer]:
+                                  - button [ref=e148] [cursor=pointer]: 
+                                - listitem [ref=e149] [cursor=pointer]:
+                                  - button [ref=e151] [cursor=pointer]: 
+                                - listitem [ref=e152] [cursor=pointer]:
+                                  - button [ref=e154] [cursor=pointer]: 
+                                - listitem [ref=e155] [cursor=pointer]:
+                                  - button [ref=e157] [cursor=pointer]: 
+                                - listitem [ref=e158] [cursor=pointer]:
+                                  - button [ref=e160] [cursor=pointer]: 
+                                - listitem [ref=e161] [cursor=pointer]:
+                                  - button [ref=e163] [cursor=pointer]: 
+                                - listitem [ref=e164] [cursor=pointer]:
+                                  - button [ref=e166] [cursor=pointer]: 
+                          - generic [ref=e167]:
+                            - generic [ref=e168] [cursor=pointer]: x
+                            - region [ref=e169]:
+                              - img [ref=e173] [cursor=pointer]
+                              - button [ref=e174] [cursor=pointer]:
+                                - text: 
+                                - generic [ref=e175] [cursor=pointer]: Play Video
+                              - text:           
+                            - generic [ref=e176]:
+                              - link [ref=e178]
+                              - link [ref=e181]:
+                                - /url: https://techlistic.com/openvideo/v/selenium-ide-tutorial-no-coding-required-techlisticcom
+                                - text: "Selenium IDE Tutorial: A Beginner's Guide to No-Code Automation Testing | TECHLISTIC.COM"
+                              - button [ref=e183] [cursor=pointer]:
+                                - img [ref=e185] [cursor=pointer]
+                            - link [ref=e188]:
+                              - /url: https://techlistic.com/openvideo/v/selenium-ide-tutorial-no-coding-required-techlisticcom
+                              - generic [ref=e189]:
+                                - generic [ref=e190]: Watch on
+                                - img [ref=e191]
+                        - link [ref=e193]:
+                          - /url: https://techlistic.com/openvideo/v/selenium-ide-tutorial-no-coding-required-techlisticcom
+                          - text: "Selenium IDE Tutorial: A Beginner's Guide to No-Code Automation Testing | TECHLISTIC.COM"
+                      - generic [ref=e195]:
+                        - generic [ref=e196]: "First name:"
+                        - textbox [ref=e197]: Admin
+                      - generic [ref=e199]:
+                        - generic [ref=e200]: "Last name:"
+                        - textbox [ref=e201]: admin123
+                      - generic [ref=e202]:
+                        - generic [ref=e203]: Gender
+                        - radio [checked] [ref=e204]
+                        - text: Male
+                        - radio [ref=e205]
+                        - generic [ref=e206]: Female
+                      - generic [ref=e207]:
+                        - generic [ref=e208]: Years of Experience
+                        - radio [ref=e209]
+                        - text: "1"
+                        - radio [ref=e210]
+                        - text: "2"
+                        - radio [checked] [ref=e211]
+                        - text: "3"
+                        - radio [ref=e212]
+                        - text: "4"
+                        - radio [ref=e213]
+                        - text: "5"
+                        - radio [ref=e214]
+                        - text: "6"
+                        - radio [ref=e215]
+                        - generic [ref=e216]: "7"
+                      - generic [ref=e218]:
+                        - text: "Date:"
+                        - textbox [ref=e219]: 14/10/2025
+                      - generic [ref=e221]:
+                        - generic [ref=e222]: Profession
+                        - checkbox [ref=e223]
+                        - text: Manual Tester
+                        - checkbox [checked] [ref=e224]
+                        - generic [ref=e225]: Automation Tester
+                      - generic [ref=e227]:
+                        - generic [ref=e228]: Automation Tools
+                        - checkbox [ref=e229]
+                        - text: UFT
+                        - checkbox [ref=e230]
+                        - text: Protractor
+                        - checkbox [checked] [ref=e231]
+                        - text: Selenium Webdriver
+                      - generic [ref=e232]:
+                        - generic [ref=e234]: Continents
+                        - combobox [ref=e236]
+                      - generic [ref=e237]:
+                        - generic [ref=e239]: Selenium Commands
+                        - listbox [ref=e241]:
+                          - option [selected] [ref=e242]: Browser Commands
+                          - option [ref=e243]: Navigation Commands
+                          - option [ref=e244]: Switch Commands
+                          - option [ref=e245]: Wait Commands
+                          - option [ref=e246]: WebElement Commands
+                      - generic [ref=e247]:
+                        - generic [ref=e249]:
+                          - generic [ref=e250]: Upload Image
+                          - button [ref=e251]
+                          - generic [ref=e252]:
+                            - generic [ref=e253]: Download File
+                            - link [ref=e254]:
+                              - /url: https://github.com/stanfy/behave-rest/blob/master/features/conf.yaml
+                              - text: Click here to Download File
+                        - button [ref=e258] [cursor=pointer]: Button
+                  - heading [level=2] [ref=e261]: How to Automate 'Practice Form' with Selenium WebDriver
+                  - generic [ref=e263]:
+                    - generic [ref=e264]: This is a demo web form that contains all the form elements which are mostly present on any web page. So, by automating this form you would learn all the WebDriver commands which are required to automate a web page.
+                    - text: "This web form contains the following web elements:"
+                  - list [ref=e266]:
+                    - listitem [ref=e267]:
+                      - generic [ref=e269]: Links
+                    - listitem [ref=e270]:
+                      - generic [ref=e272]: Text boxes
+                    - listitem [ref=e273]:
+                      - generic [ref=e275]: Radio buttons
+                    - listitem [ref=e276]:
+                      - generic [ref=e278]: Date Picker
+                    - listitem [ref=e279]:
+                      - generic [ref=e281]: Checkboxes
+                    - listitem [ref=e282]:
+                      - generic [ref=e284]: Select box
+                    - listitem [ref=e285]:
+                      - generic [ref=e287]: Multi Select box
+                    - listitem [ref=e288]:
+                      - generic [ref=e290]: Upload Image button
+                    - listitem [ref=e291]:
+                      - generic [ref=e293]: Download link
+                  - generic [ref=e297]: "Steps to Automate:"
+                  - generic [ref=e298]:
+                    - list [ref=e299]:
+                      - listitem [ref=e300]:
+                        - generic [ref=e302]: Open this link - https://www.techlistic.com/p/selenium-practice-form.html
+                      - listitem [ref=e303]:
+                        - generic [ref=e305]: Enter first and last name (textbox).
+                      - listitem [ref=e306]:
+                        - generic [ref=e308]: Select gender (radio button).
+                      - listitem [ref=e309]:
+                        - generic [ref=e311]: Select years of experience (radio button).
+                      - listitem [ref=e312]:
+                        - generic [ref=e314]: Enter date.
+                      - listitem [ref=e315]:
+                        - generic [ref=e317]: Select Profession (Checkbox).
+                      - listitem [ref=e318]:
+                        - generic [ref=e320]: Select Automation tools you are familiar with (multiple checkboxes).
+                      - listitem [ref=e321]:
+                        - generic [ref=e323]: Select Continent (Select box).
+                      - listitem [ref=e324]:
+                        - generic [ref=e326]: Select multiple commands from a multi-select box.
+                      - listitem [ref=e327]:
+                        - generic [ref=e329]: If you can handle Upload image then try it or leave this step.
+                      - listitem [ref=e330]:
+                        - generic [ref=e332]: Click on the Download File link and handle the download file pop-up (leave it if you are a beginner).
+                      - listitem [ref=e333]:
+                        - generic [ref=e335]: Click on Submit button.
+                      - listitem [ref=e336]:
+                        - generic [ref=e338]: Try your own logic and automate it without any help. If you still find it difficult to automate then follow reference links.
+                    - generic [ref=e342]: "Example Code:"
+                    - generic [ref=e346]:
+                      - generic [ref=e347]: package
+                      - text: com.
+                      - generic [ref=e348]: techlistic
+                      - text: .
+                      - generic [ref=e349]: tute
+                      - text: ;
+                      - generic [ref=e350]: import
+                      - generic [ref=e351]: org.openqa.selenium.By
+                      - text: ;
+                      - generic [ref=e352]: import
+                      - generic [ref=e353]: org.openqa.selenium.WebDriver
+                      - text: ;
+                      - generic [ref=e354]: import
+                      - generic [ref=e355]: org.openqa.selenium.chrome.ChromeDriver
+                      - text: ;
+                      - generic [ref=e356]: import
+                      - generic [ref=e357]: org.openqa.selenium.remote.DesiredCapabilities
+                      - text: ;
+                      - generic [ref=e358]: import
+                      - generic [ref=e359]: org.openqa.selenium.Dimension
+                      - text: ;
+                      - generic [ref=e360]: import
+                      - generic [ref=e361]: org.openqa.selenium.WebElement
+                      - text: ;
+                      - generic [ref=e362]: import
+                      - generic [ref=e363]: org.openqa.selenium.interactions.Actions
+                      - text: ;
+                      - generic [ref=e364]: import
+                      - generic [ref=e365]: org.openqa.selenium.support.ui.ExpectedConditions
+                      - text: ;
+                      - generic [ref=e366]: import
+                      - generic [ref=e367]: org.openqa.selenium.support.ui.WebDriverWait
+                      - text: ;
+                      - generic [ref=e368]: import
+                      - generic [ref=e369]: org.openqa.selenium.JavascriptExecutor
+                      - text: ;
+                      - generic [ref=e370]: import
+                      - generic [ref=e371]: org.openqa.selenium.Alert
+                      - text: ;
+                      - generic [ref=e372]: import
+                      - generic [ref=e373]: org.openqa.selenium.Keys
+                      - text: ;
+                      - generic [ref=e374]: import
+                      - generic [ref=e375]: java.util.*
+                      - text: ;
+                      - generic [ref=e376]: import
+                      - generic [ref=e377]: java.net.MalformedURLException
+                      - text: ;
+                      - generic [ref=e378]: import
+                      - generic [ref=e379]: java.net.URL
+                      - text: ;
+                      - generic [ref=e380]: public
+                      - generic [ref=e381]: class
+                      - generic [ref=e382]: PracticeFormTest
+                      - text: "{"
+                      - generic [ref=e383]: // Main Method is the execution point of any Java Program
+                      - generic [ref=e384]: public
+                      - generic [ref=e385]: static
+                      - generic [ref=e386]: void
+                      - generic [ref=e387]: main
+                      - text: "(String[] args){"
+                      - generic [ref=e388]: // Initialize Webdriver Object
+                      - text: System.
+                      - generic [ref=e389]: setProperty
+                      - text: (
+                      - generic [ref=e390]: "\"webdriver.chrome.driver\""
+                      - text: ","
+                      - generic [ref=e391]: "\"D:\\\\chromedriver.exe\""
+                      - text: ); WebDriver driver =
+                      - generic [ref=e392]: new
+                      - text: ChromeDriver();
+                      - generic [ref=e393]: // Open URL
+                      - text: driver.
+                      - generic [ref=e394]: get
+                      - text: (
+                      - generic [ref=e395]: "\"https://www.techlistic.com/p/selenium-practice-form.html\""
+                      - text: );
+                      - generic [ref=e396]: // Set Chrome window size
+                      - text: driver.
+                      - generic [ref=e397]: manage
+                      - text: ().
+                      - generic [ref=e398]: window
+                      - text: ().
+                      - generic [ref=e399]: setSize
+                      - text: (
+                      - generic [ref=e400]: new
+                      - text: Dimension(
+                      - generic [ref=e401]: "1552"
+                      - text: ","
+                      - generic [ref=e402]: "840"
+                      - text: ));
+                      - generic [ref=e403]: // Enter Firstname
+                      - text: driver.
+                      - generic [ref=e404]: findElement
+                      - text: (By.
+                      - generic [ref=e405]: name
+                      - text: (
+                      - generic [ref=e406]: "\"firstname\""
+                      - text: )).
+                      - generic [ref=e407]: click
+                      - text: (); driver.
+                      - generic [ref=e408]: findElement
+                      - text: (By.
+                      - generic [ref=e409]: name
+                      - text: (
+                      - generic [ref=e410]: "\"firstname\""
+                      - text: )).
+                      - generic [ref=e411]: sendKeys
+                      - text: (
+                      - generic [ref=e412]: "\"Tom\""
+                      - text: );
+                      - generic [ref=e413]: // Set Lastname
+                      - text: driver.
+                      - generic [ref=e414]: findElement
+                      - text: (By.
+                      - generic [ref=e415]: name
+                      - text: (
+                      - generic [ref=e416]: "\"lastname\""
+                      - text: )).
+                      - generic [ref=e417]: click
+                      - text: (); driver.
+                      - generic [ref=e418]: findElement
+                      - text: (By.
+                      - generic [ref=e419]: name
+                      - text: (
+                      - generic [ref=e420]: "\"lastname\""
+                      - text: )).
+                      - generic [ref=e421]: sendKeys
+                      - text: (
+                      - generic [ref=e422]: "\"Wood\""
+                      - text: );
+                      - generic [ref=e423]: // Select Gender
+                      - text: driver.
+                      - generic [ref=e424]: findElement
+                      - text: (By.
+                      - generic [ref=e425]: id
+                      - text: (
+                      - generic [ref=e426]: "\"sex-0\""
+                      - text: )).
+                      - generic [ref=e427]: click
+                      - text: ();
+                      - generic [ref=e428]: // Select Experience
+                      - text: driver.
+                      - generic [ref=e429]: findElement
+                      - text: (By.
+                      - generic [ref=e430]: id
+                      - text: (
+                      - generic [ref=e431]: "\"exp-4\""
+                      - text: )).
+                      - generic [ref=e432]: click
+                      - text: ();
+                      - generic [ref=e433]: // Enter Date
+                      - text: driver.
+                      - generic [ref=e434]: findElement
+                      - text: (By.
+                      - generic [ref=e435]: id
+                      - text: (
+                      - generic [ref=e436]: "\"datepicker\""
+                      - text: )).
+                      - generic [ref=e437]: click
+                      - text: (); driver.
+                      - generic [ref=e438]: findElement
+                      - text: (By.
+                      - generic [ref=e439]: id
+                      - text: (
+                      - generic [ref=e440]: "\"datepicker\""
+                      - text: )).
+                      - generic [ref=e441]: sendKeys
+                      - text: (
+                      - generic [ref=e442]: "\"16-10-2020\""
+                      - text: );
+                      - generic [ref=e443]: // Select Profession
+                      - text: driver.
+                      - generic [ref=e444]: findElement
+                      - text: (By.
+                      - generic [ref=e445]: id
+                      - text: (
+                      - generic [ref=e446]: "\"profession-1\""
+                      - text: )).
+                      - generic [ref=e447]: click
+                      - text: ();
+                      - generic [ref=e448]: // Select Automation Tool
+                      - text: driver.
+                      - generic [ref=e449]: findElement
+                      - text: (By.
+                      - generic [ref=e450]: id
+                      - text: (
+                      - generic [ref=e451]: "\"tool-2\""
+                      - text: )).
+                      - generic [ref=e452]: click
+                      - text: ();
+                      - generic [ref=e453]: // Select Continent
+                      - text: driver.
+                      - generic [ref=e454]: findElement
+                      - text: (By.
+                      - generic [ref=e455]: id
+                      - text: (
+                      - generic [ref=e456]: "\"continents\""
+                      - text: )).
+                      - generic [ref=e457]: click
+                      - text: (); WebElement dropdown = driver.
+                      - generic [ref=e458]: findElement
+                      - text: (By.
+                      - generic [ref=e459]: id
+                      - text: (
+                      - generic [ref=e460]: "\"continents\""
+                      - text: )); dropdown.
+                      - generic [ref=e461]: findElement
+                      - text: (By.
+                      - generic [ref=e462]: xpath
+                      - text: (
+                      - generic [ref=e463]: "\"//option[. = 'Europe']\""
+                      - text: )).
+                      - generic [ref=e464]: click
+                      - text: ();
+                      - generic [ref=e465]: // Select Command
+                      - text: WebElement dropdown = driver.
+                      - generic [ref=e466]: findElement
+                      - text: (By.
+                      - generic [ref=e467]: id
+                      - text: (
+                      - generic [ref=e468]: "\"selenium_commands\""
+                      - text: )); dropdown.
+                      - generic [ref=e469]: findElement
+                      - text: (By.
+                      - generic [ref=e470]: xpath
+                      - text: (
+                      - generic [ref=e471]: "\"//option[. = 'Browser Commands']\""
+                      - text: )).
+                      - generic [ref=e472]: click
+                      - text: ();
+                      - generic [ref=e473]: // Scroll Vertical
+                      - text: js.
+                      - generic [ref=e474]: executeScript
+                      - text: (
+                      - generic [ref=e475]: "\"window.scrollTo(0,675.5555419921875)\""
+                      - text: );
+                      - generic [ref=e476]: // Click Submit
+                      - text: driver.
+                      - generic [ref=e477]: findElement
+                      - text: (By.
+                      - generic [ref=e478]: id
+                      - text: (
+                      - generic [ref=e479]: "\"submit\""
+                      - text: )).
+                      - generic [ref=e480]: click
+                      - text: "(); } }"
+                - generic [ref=e482]:
+                  - generic [ref=e483]:
+                    - generic [ref=e484]:
+                      - generic [ref=e485]: Popular Tutorials
+                      - generic [ref=e486]: ":"
+                    - list [ref=e488]:
+                      - listitem [ref=e489]:
+                        - link [ref=e492]:
+                          - /url: https://www.techlistic.com/p/java.html
+                          - text: Java Tutorial
+                      - listitem [ref=e493]:
+                        - link [ref=e496]:
+                          - /url: https://www.techlistic.com/p/selenium-tutorials.html
+                          - text: Selenium with Java
+                      - listitem [ref=e497]:
+                        - link [ref=e499]:
+                          - /url: https://www.techlistic.com/p/selenium-with-python-tutorial.html
+                          - text: Selenium with Python
+                      - listitem [ref=e500]:
+                        - link [ref=e503]:
+                          - /url: https://www.techlistic.com/p/selenium-with-testng-tutorial.html
+                          - text: Selenium with TestNG
+                      - listitem [ref=e504]:
+                        - link [ref=e506]:
+                          - /url: https://www.techlistic.com/2021/10/selenium-ide-commands.html
+                          - text: Selenium IDE (No Coding Required)
+                      - listitem [ref=e507]:
+                        - link [ref=e510]:
+                          - /url: https://www.techlistic.com/2021/10/rest-api-testing-using-postman.html
+                          - text: Rest API Testing with Postman
+                      - listitem [ref=e511]:
+                        - link [ref=e514]:
+                          - /url: https://www.techlistic.com/2020/01/jmeter-tutorial-to-carry-out.html
+                          - text: Performance Testing with JMeter
+                      - listitem [ref=e515]:
+                        - link [ref=e517]:
+                          - /url: https://www.techlistic.com/2020/01/mobile-testing-with-emulator-step-wise.html
+                          - text: Mobile Testing with Emulator
+                    - paragraph [ref=e523]
+                  - generic [ref=e525]:
+                    - generic [ref=e529]:
+                      - generic [ref=e530]: You may also like to read
+                      - generic [ref=e531]: ":"
+                    - generic [ref=e533]:
+                      - list [ref=e534]:
+                        - listitem [ref=e535]:
+                          - link [ref=e536]:
+                            - /url: https://www.techlistic.com/2021/10/top-50-selenium-interview-questions.html
+                            - text: 50+ Selenium WebDriver Interview Questions
+                        - listitem [ref=e537]:
+                          - link [ref=e538]:
+                            - /url: https://www.techlistic.com/2021/10/selenium-webdriver-commands.html
+                            - text: Top 25 Selenium WebDriver Commands with Java
+                        - listitem [ref=e539]:
+                          - link [ref=e540]:
+                            - /url: https://www.techlistic.com/2021/09/java-object-and-class.html
+                            - text: What are Java Class and Object?
+                        - listitem [ref=e541]:
+                          - link [ref=e542]:
+                            - /url: https://www.techlistic.com/2019/07/selenium-webdriver-actions-class.html
+                            - text: What is an Actions Class in Selenium?
+                        - listitem [ref=e543]:
+                          - link [ref=e544]:
+                            - /url: https://www.techlistic.com/2019/06/upload-file-using-selenium-webdriver.html
+                            - text: What is Robot Class in Selenium?
+                        - listitem [ref=e545]:
+                          - link [ref=e546]:
+                            - /url: https://www.techlistic.com/2016/06/how-to-take-partial-screenshot-in.html
+                            - text: How to take partial screenshots with Selenium?
+                        - listitem [ref=e547]:
+                          - link [ref=e548]:
+                            - /url: https://www.techlistic.com/2019/05/guidelines-and-checklist-for-testing.html
+                            - text: Checklist and Best Guidelines to Test a Website
+                      - heading [level=2] [ref=e551]:
+                        - generic [ref=e554]:
+                          - generic [ref=e556]: "You may also like Selenium Practice Exercises with example code:"
+                          - list [ref=e558]:
+                            - listitem [ref=e559]:
+                              - link [ref=e560]:
+                                - /url: https://www.techlistic.com/2020/06/automate-ecommerce-website.html
+                                - text: Automate Amazon like E-Commerce website with Selenium
+                            - listitem [ref=e561]:
+                              - link [ref=e562]:
+                                - /url: https://www.techlistic.com/2021/10/selenium-web-browser-automation.html
+                                - text: Automate GoDaddy website features with Selenium
+                            - listitem [ref=e563]:
+                              - link [ref=e564]:
+                                - /url: https://www.techlistic.com/2019/07/automate-google-with-selenium.html
+                                - text: Automate Google search with Selenium
+                            - listitem [ref=e565]:
+                              - link [ref=e566]:
+                                - /url: https://www.techlistic.com/2020/03/selenium-webdriver-get-all-page-links.html
+                                - text: How do Find all the broken links on a website with Selenium
+                            - listitem [ref=e567]:
+                              - link [ref=e568]:
+                                - /url: https://www.techlistic.com/2017/02/how-to-handle-dynamic-web-table-in.html
+                                - text: How to Handle Static and Dynamic Web Tables with Selenium
+                            - listitem [ref=e569]:
+                              - link [ref=e570]:
+                                - /url: https://www.techlistic.com/2020/02/handle-multiple-browser-tabs.html
+                                - text: Automate Handling Multiple Browser Tabs with Selenium
+                            - listitem [ref=e571]:
+                              - link [ref=e572]:
+                                - /url: https://www.techlistic.com/2019/06/upload-file-using-selenium-webdriver.html
+                                - text: Automate Upload and Download files with Selenium
+                - generic [ref=e578]:
+                  - text: Automate GoDaddy.com with Selenium
+                  - link [ref=e579]:
+                    - /url: https://www.techlistic.com/2019/07/assignment-2-automate-menu-links-and.html
+                    - text: << Previous
+                  - text: "|"
+                  - link [ref=e580]:
+                    - /url: https://www.techlistic.com/2019/06/assignment-2-automate-google-search.html
+                    - text: Next >>
+                  - text: Automate Google Search
+              - generic [ref=e582]:
+                - heading [level=3] [ref=e584]:
+                  - generic [ref=e587]: Follow Techlistic
+                - link [ref=e589]:
+                  - /url: https://www.youtube.com/channel/UCWqgGjwxLTo6I8y0HXAZ9Eg
+                  - generic [ref=e590]:
+                    - generic [ref=e591]: YouTube
+                    - generic [ref=e592]: Channel
+                - text: "|"
+                - link [ref=e594]:
+                  - /url: https://www.facebook.com/groups/681543752275271/
+                  - generic [ref=e595]:
+                    - generic [ref=e596]: Facebook
+                    - generic [ref=e597]: Page
+                - text: "|"
+                - link [ref=e599]:
+                  - /url: https://t.me/techlistic
+                  - generic [ref=e600]:
+                    - generic [ref=e601]: Telegram
+                    - generic [ref=e602]: Channel
+                - text: "|"
+                - link [ref=e604]:
+                  - /url: https://qr.ae/pNKCBm
+                  - generic [ref=e605]:
+                    - generic [ref=e606]: Quora
+                    - generic [ref=e607]: Space
+              - generic [ref=e608]:
+                - generic [ref=e609]: ···
+                - img [ref=e612] [cursor=pointer]
+              - button [ref=e617] [cursor=pointer]:
+                - img [ref=e619] [cursor=pointer]
+          - generic [ref=e622]:
+            - heading [level=3] [ref=e623]: Popular posts from this blog
+            - feed [ref=e625]:
+              - article [ref=e626]:
+                - heading [level=3] [ref=e627]:
+                  - link [ref=e628]:
+                    - /url: //www.techlistic.com/2019/07/top-10-highly-paid-indian-origin-ceos.html
+                    - text: Top 10 Highest Paid Indian-Origin CEOs in the USA
+                - generic [ref=e629]:
+                  - link [ref=e631]:
+                    - /url: //www.techlistic.com/2019/07/top-10-highly-paid-indian-origin-ceos.html
+                    - img [ref=e632]
+                  - generic [ref=e633]:
+                    - generic [ref=e634]: Top Indian CEOs in the USA Indian Americans have been making significant contributions to the US economy for decades. Many Indian-origin executives have reached the pinnacle of success in American corporations and hold some of the highest-paid positions in the country. In this post, we will take a look at the top 10 highly paid Indian-origin CEOs in the USA, their history, academics, salary, and net worth. 1. Sunder Pichai Salary US$ 199.7 million Sundar Pichai is the CEO of Google and Alphabet Inc. Born in Tamil Nadu, India, Pichai grew up in a middle-class family and earned a Bachelor’s degree in Metallurgical Engineering from the Indian Institute of Technology in Kharagpur. He went on to earn a Master’s degree in Material Sciences and Engineering from Stanford University and an MBA from the Wharton School of the University of Pennsylvania. Pichai joined Google in 2004 and rose through the ranks to become CEO in 2015. His annual salary in 2021 was $2 million, and his net ...
+                    - link [ref=e635]:
+                      - /url: //www.techlistic.com/2019/07/top-10-highly-paid-indian-origin-ceos.html
+                      - text: …
+                  - link [ref=e637]:
+                    - /url: //www.techlistic.com/2019/07/top-10-highly-paid-indian-origin-ceos.html
+                    - text: Read more
+              - article [ref=e638]:
+                - heading [level=3] [ref=e639]:
+                  - link [ref=e640]:
+                    - /url: //www.techlistic.com/2021/10/top-7-web-development-trends.html
+                    - text: Top 7 Web Development Trends in the Market
+                - generic [ref=e641]:
+                  - link [ref=e643]:
+                    - /url: //www.techlistic.com/2021/10/top-7-web-development-trends.html
+                    - img [ref=e644]
+                  - generic [ref=e645]:
+                    - generic [ref=e646]: Technology continues to advance as humans discover new methods to innovate, doing tasks quicker and more creatively than before. Developers are continuously on the lookout for new technologies that will help them move forward towards a better future. The contemporary industry is constantly evolving, and new online technologies emerge daily. Entrepreneurs that want to interact with more consumers and stay ahead in this competitive industry may take advantage of these new trends. There aren't many industries that have as much innovation as bespoke web development. Hire WordPress developer to help entrepreneurs interact with more consumers and stay ahead. Websites, without a question, play an important part in today's commercial environment. A WordPress design agency will build you a website that functions as a separate brand, organization, and individual. Doing business on a worldwide scale has become conceivable and attainable as firms and enterprises have transcended all bo...
+                    - link [ref=e647]:
+                      - /url: //www.techlistic.com/2021/10/top-7-web-development-trends.html
+                      - text: …
+                  - link [ref=e649]:
+                    - /url: //www.techlistic.com/2021/10/top-7-web-development-trends.html
+                    - text: Read more
+              - article [ref=e650]:
+                - heading [level=3] [ref=e651]:
+                  - link [ref=e652]:
+                    - /url: //www.techlistic.com/2020/06/automate-ecommerce-website.html
+                    - text: Selenium Automation for E-commerce Websites
+                - generic [ref=e653]:
+                  - link [ref=e655]:
+                    - /url: //www.techlistic.com/2020/06/automate-ecommerce-website.html
+                    - img [ref=e656]
+                  - generic [ref=e657]:
+                    - generic [ref=e658]: "Table of Contents Why Automate E-commerce Testing? Key Challenges in E-commerce Testing Prerequisites for Automation Test Scenarios for E-commerce Websites User Registration & Login Search Product Feature Product Details & Cart Management Checkout & Payment Flow Best Practices for E-commerce Test Automation Advanced Testing Scenarios Complementary Tools for E-commerce Testing Conclusion Why Automate E-commerce Testing? Modern e-commerce platforms are complex ecosystems integrating: Product catalogs with thousands of dynamic SKUs Multi-step shopping carts with real-time calculations Secure payment gateways (credit cards, digital wallets) User account systems with personalized experiences Automation delivers transformative benefits: Benefit Impact Example Lightning-Fast Execution 10-100x faster than manual testing Run 500 product search tests in 15 minutes instead of 8 hours Flawless Precision 99.9% error-free test exec..."
+                    - link [ref=e659]:
+                      - /url: //www.techlistic.com/2020/06/automate-ecommerce-website.html
+                      - text: …
+                  - link [ref=e661]:
+                    - /url: //www.techlistic.com/2020/06/automate-ecommerce-website.html
+                    - text: Read more
+              - article [ref=e662]:
+                - heading [level=3] [ref=e663]:
+                  - link [ref=e664]:
+                    - /url: //www.techlistic.com/2023/05/a-complete-software-testing-tutorial.html
+                    - text: "A Complete Software Testing Tutorial: The Importance, Process, Tools, and Learning Resources"
+                - generic [ref=e665]:
+                  - link [ref=e667]:
+                    - /url: //www.techlistic.com/2023/05/a-complete-software-testing-tutorial.html
+                    - img [ref=e668]
+                  - generic [ref=e669]:
+                    - generic [ref=e670]: What is Software Testing? Software testing is a crucial process in software development that ensures that software is free from defects, meets user requirements, and performs as expected. In today's fast-paced world, software testing has become even more important because of the growing demand for high-quality software that is delivered on time and within budget. In this blog, we'll explore the various types of software testing, the software testing process, the benefits of software testing, common tools and techniques used in software testing, and steps to learn software testing. Why Software Testing is important? Testing helps identify bugs and errors in software before it is released to users. It is a critical step in the development process, ensuring that the software meets the requirements and functions as intended. Additionally, testing helps prevent downtime and ensures that users have a positive experience with the software.
+                    - link [ref=e671]:
+                      - /url: //www.techlistic.com/2023/05/a-complete-software-testing-tutorial.html
+                      - text: …
+                  - link [ref=e673]:
+                    - /url: //www.techlistic.com/2023/05/a-complete-software-testing-tutorial.html#more
+                    - text: Read more
+                - generic [ref=e674]:
+                  - generic [ref=e675]: ···
+                  - img [ref=e678] [cursor=pointer]
+              - article [ref=e679]:
+                - heading [level=3] [ref=e680]:
+                  - link [ref=e681]:
+                    - /url: //www.techlistic.com/2021/10/selenium-webdriver-commands.html
+                    - text: "25+ Selenium WebDriver Commands: The Complete Cheat Sheet with Examples"
+                - generic [ref=e682]:
+                  - link [ref=e684]:
+                    - /url: //www.techlistic.com/2021/10/selenium-webdriver-commands.html
+                    - img [ref=e685]
+                  - generic [ref=e686]:
+                    - generic [ref=e687]: "Introduction This ultimate guide explains every essential Selenium WebDriver command with detailed technical explanations and practical Java examples. Whether you're writing your first test script or optimizing an existing framework, understanding these commands is crucial for effective test automation. Table of Contents Browser Initialization Commands Browser Window Commands Navigation Commands Element Location Commands Element Interaction Commands Dropdown Handling Commands Advanced Utility Commands 1. Browser Initialization Commands System.setProperty() java System . setProperty ( \"webdriver.chrome.driver\" , \"path/to/chromedriver\" ) ; Explanation: Sets the system property to specify the path to the browser driver executable Required before creating a WebDriver instance Must match your browser version (e.g., ChromeDriver for Chrome) Path can be absolute or relative to project WebDriver Initialization java WebDriver driver = new ChromeDriver ( ) ; Explana..."
+                    - link [ref=e688]:
+                      - /url: //www.techlistic.com/2021/10/selenium-webdriver-commands.html
+                      - text: …
+                  - link [ref=e690]:
+                    - /url: //www.techlistic.com/2021/10/selenium-webdriver-commands.html
+                    - text: Read more
+              - article [ref=e691]:
+                - heading [level=3] [ref=e692]:
+                  - link [ref=e693]:
+                    - /url: //www.techlistic.com/2023/03/robot-framework-automation-testing-tool.html
+                    - text: "ROBOT Framework Tutorial: A Comprehensive Guide to Automation Testing with Examples"
+                - generic [ref=e694]:
+                  - link [ref=e696]:
+                    - /url: //www.techlistic.com/2023/03/robot-framework-automation-testing-tool.html
+                    - img [ref=e697]
+                  - generic [ref=e698]:
+                    - generic [ref=e699]: Introduction to Robot Framework Robot Framework is a generic, keyword-driven test automation framework that is used for acceptance testing and acceptance test-driven development (ATDD). It is a tool that can be used to automate any application or system, and supports a wide variety of platforms and technologies. Robot Framework was originally developed by Nokia Networks and is now maintained by the Robot Framework Foundation. Robot Framework is built on top of Python and uses a tabular test data syntax to create test cases. Test cases are composed of keywords that are executed by test libraries. Robot Framework comes with a variety of built-in libraries, including ones for testing web applications, databases, and APIs. Additionally, users can create their own custom libraries to extend the framework's capabilities. Robot Framework is designed to be easy to use, even for those who do not have extensive programming experience. The tabular test data syntax makes it easy to create and...
+                    - link [ref=e700]:
+                      - /url: //www.techlistic.com/2023/03/robot-framework-automation-testing-tool.html
+                      - text: …
+                  - link [ref=e702]:
+                    - /url: //www.techlistic.com/2023/03/robot-framework-automation-testing-tool.html
+                    - text: Read more
+              - article [ref=e703]:
+                - heading [level=3] [ref=e704]:
+                  - link [ref=e705]:
+                    - /url: //www.techlistic.com/2023/09/what-is-artificial-intelligence.html
+                    - text: What Is Artificial Intelligence (AI) and How Does It Work?
+                - generic [ref=e706]:
+                  - link [ref=e708]:
+                    - /url: //www.techlistic.com/2023/09/what-is-artificial-intelligence.html
+                    - img [ref=e709]
+                  - generic [ref=e710]:
+                    - generic [ref=e711]: "Artificial Intelligence, often abbreviated as AI, is a transformative field of computer science that aims to create machines, software, or systems capable of performing tasks that typically require human intelligence. These tasks include problem-solving, learning from experience, understanding natural language, recognizing patterns, and making decisions. In this article, we will explore what AI is, its subfields, and provide examples of AI applications that have already started to shape our world. Understanding Artificial Intelligence AI is a multidisciplinary field that draws inspiration from various areas, including computer science, mathematics, psychology, neuroscience, and linguistics. At its core, AI seeks to replicate or simulate human intelligence in machines, enabling them to perform tasks autonomously, adapt to changing environments, and improve over time. Subfields of Artificial Intelligence AI encompasses several subfields, each with its unique focus and applications: 1. Ma..."
+                    - link [ref=e712]:
+                      - /url: //www.techlistic.com/2023/09/what-is-artificial-intelligence.html
+                      - text: …
+                  - link [ref=e714]:
+                    - /url: //www.techlistic.com/2023/09/what-is-artificial-intelligence.html
+                    - text: Read more
+                - generic [ref=e715]:
+                  - generic [ref=e716]:
+                    - generic [ref=e718]:
+                      - text: ···
+                      - insertion [ref=e719]
+                    - generic [ref=e722]:
+                      - text: ···
+                      - insertion [ref=e723]
+                  - img [ref=e727] [cursor=pointer]
+              - article [ref=e728]:
+                - heading [level=3] [ref=e729]:
+                  - link [ref=e730]:
+                    - /url: //www.techlistic.com/2023/05/python-behave-tutorial.html
+                    - text: "Behavior-Driven Development (BDD) with Python Behave: A Complete Tutorial"
+                - generic [ref=e731]:
+                  - link [ref=e733]:
+                    - /url: //www.techlistic.com/2023/05/python-behave-tutorial.html
+                    - img [ref=e734]
+                  - generic [ref=e735]:
+                    - generic [ref=e736]: "In this tutorial, we'll explain each and every aspect of Behavior Driven Development. This BDD Python tutorial will help you create and design your automation tests and framework. Table of Content 1. What is BDD? 2. What is Gherkin Language in BDD? 3. What is Behave in Python? 4. Installing and Setup Behave 5. Project Structure for Behave Python (BDD) 6. Feature Files, Step Functions and Other Files in Behave Feature File Step Functions Step Parameters Passing String Param from Feature File Passing Integer Param from Feature File environment.py file behave.ini file 7. Run Feature files in Behave Run a single feature file Run multiple feature files Generate JUNIT xml reports with behave Run feature files with Python suite file Upcoming Tutorials: 8. API Automation Testing with BDD Python (Behave) 9. Selenium Automation with BDD Python (Behave) 1. What is BDD? BDD stands for Behavior Driven Development. BDD is an agile process of development. It encourages non-technical or business t..."
+                    - link [ref=e737]:
+                      - /url: //www.techlistic.com/2023/05/python-behave-tutorial.html
+                      - text: …
+                  - link [ref=e739]:
+                    - /url: //www.techlistic.com/2023/05/python-behave-tutorial.html
+                    - text: Read more
+              - article [ref=e740]:
+                - heading [level=3] [ref=e741]:
+                  - link [ref=e742]:
+                    - /url: //www.techlistic.com/2023/09/best-8-ai-programming-languages-.html
+                    - text: Best 8 Programming Languages for Artificial Intelligence
+                - generic [ref=e743]:
+                  - link [ref=e745]:
+                    - /url: //www.techlistic.com/2023/09/best-8-ai-programming-languages-.html
+                    - img [ref=e746]
+                  - generic [ref=e747]:
+                    - generic [ref=e748]: Artificial Intelligence (AI) has revolutionized the way we interact with technology and has become an integral part of various industries, from healthcare to finance and beyond. Behind the impressive AI applications and systems, there are powerful programming languages driving the algorithms and models. In this article, we'll explore the best programming languages for AI, each offering unique advantages depending on your project's requirements. 1. Python Python is the undisputed king when it comes to AI and machine learning. Its simplicity, readability, and extensive libraries make it the go-to choice for AI developers. Libraries like NumPy, TensorFlow, PyTorch, and scikit-learn provide robust support for data manipulation, neural networks, and machine learning models. Python's community is vibrant, and countless AI resources, tutorials, and frameworks are available, making it an ideal choice for beginners and experts alike. 2. R R is another popular language in the field o...
+                    - link [ref=e749]:
+                      - /url: //www.techlistic.com/2023/09/best-8-ai-programming-languages-.html
+                      - text: …
+                  - link [ref=e751]:
+                    - /url: //www.techlistic.com/2023/09/best-8-ai-programming-languages-.html
+                    - text: Read more
+              - article [ref=e752]:
+                - heading [level=3] [ref=e753]:
+                  - link [ref=e754]:
+                    - /url: //www.techlistic.com/2021/10/top-50-selenium-interview-questions.html
+                    - text: Top 20 Selenium Interview Questions & Answers
+                - generic [ref=e755]:
+                  - link [ref=e757]:
+                    - /url: //www.techlistic.com/2021/10/top-50-selenium-interview-questions.html
+                    - img [ref=e758]
+                  - generic [ref=e759]:
+                    - generic [ref=e760]: "Prepare for your Selenium automation interview with these carefully curated questions covering basic to advanced concepts. Table of Contents Basic Selenium Questions Actions Class Questions Locators Questions Window/Frames Handling Advanced Concepts Framework & OOPS 1. Basic Selenium Questions Q1: How to launch different browsers? java // Chrome WebDriver driver = new ChromeDriver ( ) ; // Firefox WebDriver driver = new FirefoxDriver ( ) ; // Edge WebDriver driver = new EdgeDriver ( ) ; Q2: Difference between get() and navigate().to() get() : Loads a new page and waits for completion navigate().to() : Does the same but maintains browser history Q3: Navigation commands java driver . navigate ( ) . back ( ) ; driver . navigate ( ) . forward ( ) ; driver . navigate ( ) . refresh ( ) ; Q4: close() vs quit() close() : Closes current window quit() : Closes all windows and ends session Q5: Handling dropdowns java Select select = new Select ( driver . findElement ( By..."
+                    - link [ref=e761]:
+                      - /url: //www.techlistic.com/2021/10/top-50-selenium-interview-questions.html
+                      - text: …
+                  - link [ref=e763]:
+                    - /url: //www.techlistic.com/2021/10/top-50-selenium-interview-questions.html
+                    - text: Read more
+    - contentinfo [ref=e764]:
+      - generic [ref=e766]:
+        - link [ref=e768]:
+          - /url: https://www.blogger.com
+          - img [ref=e769] [cursor=pointer]
+          - text: Powered by Blogger
+        - generic [ref=e771]:
+          - text: Theme images by
+          - link [ref=e772]:
+            - /url: http://www.istockphoto.com/portfolio/Maliketh?platform=blogger
+            - text: Maliketh
+  - complementary [ref=e773]:
+    - button [ref=e775] [cursor=pointer]:
+      - img [ref=e776] [cursor=pointer]
+  - text: 
+  - banner [ref=e778]:
+    - generic [ref=e780]:
+      - generic [ref=e782]: Techlistic
+      - text:          
+```
